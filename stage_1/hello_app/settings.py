@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('HELLO_API')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['PrinceTheDev.pythonanywhere.com']
+ALLOWED_HOSTS = ['princethedev.pythonanywhere.com']
 
 
 # Application definition
